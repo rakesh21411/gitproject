@@ -1,0 +1,3 @@
+new rule added to user
+add the user name
+added login id
